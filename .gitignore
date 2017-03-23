@@ -3,5 +3,5 @@ bin/
 .project*
 .class*
 project.*
-
+.settings/
 
